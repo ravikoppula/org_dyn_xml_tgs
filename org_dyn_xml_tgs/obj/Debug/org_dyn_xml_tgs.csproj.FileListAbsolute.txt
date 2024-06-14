@@ -1,0 +1,7 @@
+C:\Users\C005339\source\repos\org_dyn_xml_tgs\org_dyn_xml_tgs\bin\Debug\org_dyn_xml_tgs.exe.config
+C:\Users\C005339\source\repos\org_dyn_xml_tgs\org_dyn_xml_tgs\bin\Debug\org_dyn_xml_tgs.exe
+C:\Users\C005339\source\repos\org_dyn_xml_tgs\org_dyn_xml_tgs\bin\Debug\org_dyn_xml_tgs.pdb
+C:\Users\C005339\source\repos\org_dyn_xml_tgs\org_dyn_xml_tgs\obj\Debug\org_dyn_xml_tgs.csproj.AssemblyReference.cache
+C:\Users\C005339\source\repos\org_dyn_xml_tgs\org_dyn_xml_tgs\obj\Debug\org_dyn_xml_tgs.csproj.CoreCompileInputs.cache
+C:\Users\C005339\source\repos\org_dyn_xml_tgs\org_dyn_xml_tgs\obj\Debug\org_dyn_xml_tgs.exe
+C:\Users\C005339\source\repos\org_dyn_xml_tgs\org_dyn_xml_tgs\obj\Debug\org_dyn_xml_tgs.pdb
