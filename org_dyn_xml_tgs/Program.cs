@@ -33,6 +33,10 @@ class Program
         AddElements(appHdrRoot, appHdrInput);
         AddElements(fitoRoot, fitoInput);
 
+        // Set example values
+        SetExampleValues(appHdrRoot);
+        SetExampleValues(fitoRoot);
+
         // Combine the two root elements into a string without a wrapping root element
         string combinedXml = $"{appHdrRoot}{fitoRoot}";
 
